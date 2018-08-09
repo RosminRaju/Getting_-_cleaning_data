@@ -1,0 +1,16 @@
+# History files
+.Rhistory
+
+# Session Data files
+.RData
+
+# Example code in package build process
+*-Ex.R
+
+# Ignore data files
+test/
+train/
+activity_labels.txt
+features_info.txt
+features.txt
+README.txt
